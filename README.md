@@ -1,4 +1,4 @@
-# 基于LSTM的股票预测模型
+# 基于LSTM与Transformer的股票预测模型
 
 ## 1 项目介绍
 
